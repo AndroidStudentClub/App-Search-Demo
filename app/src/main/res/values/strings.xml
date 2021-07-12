@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_feed">Feed</string>
+    <string name="title_dashboard">Tv</string>
+    <string name="title_notifications">Actors</string>
+
+    <string name="search_hint">I am looking for…</string>
+    <string name="close">close</string>
+    <string name="main_title">App Search Demo</string>
+    <string name="more">More</string>
+</resources>
