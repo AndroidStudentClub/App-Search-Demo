@@ -176,6 +176,7 @@ class FeedFragment : Fragment() {
     override fun onStop() {
         super.onStop()
         compositeDisposable.clear()
+        threadPoolExecutor.shutdown()
     }
 
     override fun onDestroyView() {
