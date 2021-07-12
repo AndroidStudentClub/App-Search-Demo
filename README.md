@@ -1,5 +1,7 @@
 # Демо-приложение для знакомства с App Search Library
 Это проект, выполненный для демонстрации работы [AppSearch](https://developer.android.com/guide/topics/search/appsearch#kotlin)
+Чтобы быть в курсе новых туториалов и статей подписывайся на telegram-канал [@android_school_ru](https://t.me/android_school_ru)
+Пройти туториал можно на сайте [AndroidSchool.ru](AndroidSchool.ru)
 
 ## Приложение позволяет:
 
