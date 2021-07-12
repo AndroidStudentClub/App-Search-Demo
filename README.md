@@ -17,4 +17,9 @@
 - Android Navigation для навигации между экранами. [Подробнее](https://developer.android.com/guide/navigation/navigation-getting-started)
 - AppSearch для локального мультипоиска среди всех документов. [Подробнее](https://developer.android.com/guide/topics/search/appsearch#kotlin)
 - RxJava для асинхронной работы. [Подробнее](https://github.com/ReactiveX/RxJava)
+- THE MOVIE DATABASE API для получения списка сериалов [THE MOVIE DATABASE API](https://www.themoviedb.org/documentation/api)
+
+## Важно
+Для получения списка сериалов используется [THE MOVIE DATABASE API](https://www.themoviedb.org/documentation/api), нужно подставить ключ в файл
+MovieApiInterface.kt в поле  API_KEY
 
